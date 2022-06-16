@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+torch #Euler uses torch 1.10.0+cu113
+torchvision
+gin-config
+click

@@ -1,0 +1,3 @@
+FCN.input_dim = 64
+FCN.output_dim = 4
+FCN.fc_dims = [32, 16, 8]
